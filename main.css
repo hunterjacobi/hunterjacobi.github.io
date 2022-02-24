@@ -472,3 +472,14 @@ footer ul li {
   font-size: 12px;
   line-height: 17px;
 }
+
+#emailTag {
+  width: 500px;
+}
+
+input,
+textarea {
+  background-color: #fcf2ec;
+  color: black;
+  border-color: #aca39c;
+}
